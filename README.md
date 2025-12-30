@@ -35,5 +35,5 @@ I am a developer focused on building high-performance mobile applications and sc
 </p>
 
 ### 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/lavitra-tyagi-ab376b296/)
-- [Instagram](https://instagram.com/lavitra_tyagi)
+- [LinkedIn](https://www.linkedin.com/in/vipin-kumar-864165342/)
+- [Instagram](https://www.instagram.com/__vipin__kumar____/#)
