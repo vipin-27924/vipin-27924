@@ -80,7 +80,7 @@ I am a **results-driven Android Developer** focused on building **high-performan
   <a href="https://www.linkedin.com/in/vipin-kumar-864165342/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:vipin@example.com">
+  <a href="mailto:vipinkumar27924@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
