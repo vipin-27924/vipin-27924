@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a **results-driven Android Developer** focused on building **high-performance, scalable mobile applications** using modern Android technologies.
 
