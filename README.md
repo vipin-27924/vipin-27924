@@ -1,16 +1,17 @@
 # 👋 VIPIN KUMAR  
 ### Android Engineer | Kotlin & Backend Systems  
-🎓 *B.Tech Computer Science (2nd Year)*  
+🎓 *B.Tech Computer Science (2nd Year)*
 
 ---
 
 ## 🚀 About Me
 
-I am a **results-driven Android Developer** specializing in **high-performance mobile applications**, **scalable backend systems**, and **modern Android architecture**. I focus on writing clean, maintainable, and production-ready code using industry best practices.
+I am a **results-driven Android Developer** specializing in **Kotlin, Jetpack Compose, and scalable backend systems**.  
+I build **production-ready mobile applications** with a focus on **clean architecture, performance optimization, and modern Android practices**.
 
-🔹 Strong foundation in **Android SDK, Jetpack Compose, MVVM, and Kotlin Coroutines**  
-🔹 Experience building **real-world apps** with authentication, APIs, and databases  
-🔹 Passionate about **system design, performance optimization, and clean architecture**
+✔ Strong in **Android SDK, MVVM, Coroutines, Clean Architecture**  
+✔ Experience with **REST APIs, Firebase, MongoDB**  
+✔ Passionate about **System Design & Performance Engineering**
 
 ---
 
@@ -25,7 +26,7 @@ I am a **results-driven Android Developer** specializing in **high-performance m
 
 ---
 
-## 📊 GitHub Analytics (Live)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vipin-27924&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -38,13 +39,21 @@ I am a **results-driven Android Developer** specializing in **high-performance m
 
 ---
 
-## 🧠 Technical Expertise
+## 🐍 GitHub Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vipin-27924/vipin-27924/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 Technical Skills
 
 | Category | Skills |
-|-------|------|
+|------|------|
 | **Languages** | Kotlin, Java, Python, C++, Dart |
 | **Android** | Jetpack Compose, XML, Coroutines, Flow |
-| **Architecture** | MVVM, Clean Architecture, Hilt |
+| **Architecture** | MVVM, Clean Architecture, Dependency Injection |
 | **Backend** | REST APIs, Firebase, MongoDB, PostgreSQL |
 | **Tools** | Git, GitHub Actions, Android Studio, Figma |
 
@@ -54,36 +63,30 @@ I am a **results-driven Android Developer** specializing in **high-performance m
 
 ### 🔹 WhatsApp Clone (Android)
 **Tech:** Kotlin · Jetpack Compose · Firebase · MVVM  
-A full-featured real-time chat application inspired by WhatsApp.
+- Real-time chat & authentication  
+- Scalable architecture  
+- Optimized UI rendering  
 
-✔ Real-time messaging  
-✔ Authentication & user presence  
-✔ Optimized Compose UI  
-✔ Scalable MVVM architecture  
-
-🔗 **Repo:** *(Add your GitHub repo link)*
+🔗 *Add your repo link here*
 
 ---
 
 ### 🔹 News App (Modern News Reader)
 **Tech:** Kotlin · Retrofit · REST API · MVVM  
+- Live news updates  
+- Offline caching  
+- Clean UI & smooth UX  
 
-A modern news application providing fast, categorized, and offline-friendly content.
-
-✔ API-based news fetching  
-✔ Pagination & caching  
-✔ Clean UI with Material Design  
-
-🔗 **Repo:** *(Add your GitHub repo link)*
+🔗 *Add your repo link here*
 
 ---
 
 ## 🧭 Roadmap 2026
 
-- 🚀 Kotlin Multiplatform (KMP)
-- 🧠 Advanced System Design & Architecture
-- 🔁 CI/CD with GitHub Actions & Fastlane
-- 📈 Performance & Memory Optimization
+- ✅ Kotlin Multiplatform (KMP)
+- 🚀 Advanced System Design
+- 🔁 CI/CD with GitHub Actions
+- ⚙️ App Performance & Memory Optimization
 
 ---
 
@@ -94,4 +97,4 @@ A modern news application providing fast, categorized, and offline-friendly cont
 
 ---
 
-⭐ *If you like my work, consider starring my repositories — it helps a lot!*
+⭐ *If you like my work, consider starring my repositories!*
