@@ -1,36 +1,51 @@
 # 👋 VIPIN KUMAR  
-**Android Engineer | Kotlin & Backend Systems**  
-*B.Tech Computer Science (2nd Year)*
+### Android Engineer | Kotlin & Backend Systems  
+🎓 *B.Tech Computer Science (2nd Year)*  
 
 ---
 
-## 🔎 Engineering Profile
+## 🚀 About Me
 
-I am a passionate Android developer focused on building **high-performance mobile applications** and **scalable backend systems**. I prioritize clean architecture, maintainable code, and efficient data handling.
+I am a **results-driven Android Developer** specializing in **high-performance mobile applications**, **scalable backend systems**, and **modern Android architecture**. I focus on writing clean, maintainable, and production-ready code using industry best practices.
 
-- 🚀 **Core Focus:** Jetpack Compose, Kotlin Coroutines, Dependency Injection (Hilt)  
-- 🌱 **Current Deep Dive:** System Design, MongoDB, Recomposition Optimization  
-- ⚡ **Philosophy:** *Code should be readable by humans and efficient for machines.*
+🔹 Strong foundation in **Android SDK, Jetpack Compose, MVVM, and Kotlin Coroutines**  
+🔹 Experience building **real-world apps** with authentication, APIs, and databases  
+🔹 Passionate about **system design, performance optimization, and clean architecture**
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Tech Stack & Badges
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipin-27924&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-27924&layout=compact&theme=tokyonight&hide_border=true" width="43%" />
+  <img src="https://img.shields.io/badge/Kotlin-Expert-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-Modern-blue?style=for-the-badge&logo=jetpackcompose"/>
+  <img src="https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-## 🛠️ Technical Stack
+## 📊 GitHub Analytics (Live)
 
-| Category | Technologies |
-|------|------------|
-| **Languages** | Kotlin (Primary), Java, Python, C++, Dart |
-| **Android** | Jetpack Compose, XML, Android SDK, Coroutines, Flow |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vipin-27924&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-27924&layout=compact&theme=tokyonight&hide_border=true" width="43%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipin-27924&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Technical Expertise
+
+| Category | Skills |
+|-------|------|
+| **Languages** | Kotlin, Java, Python, C++, Dart |
+| **Android** | Jetpack Compose, XML, Coroutines, Flow |
 | **Architecture** | MVVM, Clean Architecture, Hilt |
-| **Backend & Data** | Room DB, MongoDB, PostgreSQL, MySQL, Retrofit |
+| **Backend** | REST APIs, Firebase, MongoDB, PostgreSQL |
 | **Tools** | Git, GitHub Actions, Android Studio, Figma |
 
 ---
@@ -38,49 +53,45 @@ I am a passionate Android developer focused on building **high-performance mobil
 ## 🚀 Featured Projects
 
 ### 🔹 WhatsApp Clone (Android)
-**Tech Stack:** Kotlin · Jetpack Compose · Firebase · MVVM  
+**Tech:** Kotlin · Jetpack Compose · Firebase · MVVM  
+A full-featured real-time chat application inspired by WhatsApp.
 
-A real-time chat application inspired by WhatsApp, built using modern Android development principles.
+✔ Real-time messaging  
+✔ Authentication & user presence  
+✔ Optimized Compose UI  
+✔ Scalable MVVM architecture  
 
-**Key Features:**
-- Real-time messaging with Firebase
-- Authentication & user presence
-- Clean MVVM architecture
-- Optimized UI recomposition with Compose
-
-🔗 **Repository:** _Add your GitHub repo link here_
+🔗 **Repo:** *(Add your GitHub repo link)*
 
 ---
 
 ### 🔹 News App (Modern News Reader)
-**Tech Stack:** Kotlin · Retrofit · REST APIs · MVVM  
+**Tech:** Kotlin · Retrofit · REST API · MVVM  
 
-A clean and fast news application delivering real-time updates with efficient data handling.
+A modern news application providing fast, categorized, and offline-friendly content.
 
-**Key Features:**
-- Live news fetching using REST APIs  
-- Category-wise browsing  
-- Offline caching & error handling  
-- Material Design UI
+✔ API-based news fetching  
+✔ Pagination & caching  
+✔ Clean UI with Material Design  
 
-🔗 **Repository:** _Add your GitHub repo link here_
+🔗 **Repo:** *(Add your GitHub repo link)*
 
 ---
 
-## 🛣️ Roadmap 2026
+## 🧭 Roadmap 2026
 
-- ✅ Master **Kotlin Multiplatform (KMP)**  
-- 🚀 Build **CI/CD pipelines** using GitHub Actions & Fastlane  
-- 📊 Deep dive into **Performance Optimization & Memory Profiling**  
-- 🧠 Advance in **System Design for scalable mobile apps**
-
----
-
-## 🤝 Connect With Me
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/vipin-kumar-864165342  
-- 📧 **Email:** vipin@example.com  
+- 🚀 Kotlin Multiplatform (KMP)
+- 🧠 Advanced System Design & Architecture
+- 🔁 CI/CD with GitHub Actions & Fastlane
+- 📈 Performance & Memory Optimization
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+## 🌐 Connect With Me
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/vipin-kumar-864165342  
+📧 **Email:** vipin@example.com  
+
+---
+
+⭐ *If you like my work, consider starring my repositories — it helps a lot!*
