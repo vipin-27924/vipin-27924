@@ -1,60 +1,86 @@
-# VIPIN KUMAR 👋
-**Android Engineer | Kotlin & Backend Systems** *B.Tech Computer Science (2nd Year)*
+# 👋 VIPIN KUMAR  
+**Android Engineer | Kotlin & Backend Systems**  
+*B.Tech Computer Science (2nd Year)*
 
 ---
 
-### 🔎 Engineering Profile
-I am a developer focused on building **high-performance mobile applications** and **scalable backend architecture**. I prioritize Clean Architecture (MVVM/MVI) and efficient database management over generic implementations.
+## 🔎 Engineering Profile
 
-- 🚀 **Core Focus:** Jetpack Compose, Kotlin Coroutines, and Dependency Injection (Hilt).
-- 🌱 **Current Deep-Dive:** System Design, MongoDB, and Recomposition Optimization.
-- ⚡ **Philosophy:** Code is for humans to read; performance is for machines to execute.
+I am a passionate Android developer focused on building **high-performance mobile applications** and **scalable backend systems**. I prioritize clean architecture, maintainable code, and efficient data handling.
+
+- 🚀 **Core Focus:** Jetpack Compose, Kotlin Coroutines, Dependency Injection (Hilt)  
+- 🌱 **Current Deep Dive:** System Design, MongoDB, Recomposition Optimization  
+- ⚡ **Philosophy:** *Code should be readable by humans and efficient for machines.*
 
 ---
 
-### 📈 GitHub Ecosystem
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipin-27924&theme=onedark&column=3&no-bg=true&no-frame=true" width="100%" alt="Trophies" />
-</div>
-
-<br />
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipin-27924&show_icons=true&theme=onedark&hide_border=true&count_private=true" width="48%" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-27924&layout=compact&theme=onedark&hide_border=true" width="43%" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vipin-27924&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-27924&layout=compact&theme=tokyonight&hide_border=true" width="43%" />
 </p>
 
 ---
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
+
 | Category | Technologies |
-| :--- | :--- |
-| **Languages** | Kotlin (Expert), Java, Python, C++, Dart |
+|------|------------|
+| **Languages** | Kotlin (Primary), Java, Python, C++, Dart |
 | **Android** | Jetpack Compose, XML, Android SDK, Coroutines, Flow |
-| **Architecture** | MVVM, Clean Architecture, Hilt, Dagger |
-| **Data/Backend** | Room DB, PostgreSQL, MongoDB, MySQL, Retrofit |
-| **Tools** | Git, GitHub Actions, Figma, Android Studio Profiler |
+| **Architecture** | MVVM, Clean Architecture, Hilt |
+| **Backend & Data** | Room DB, MongoDB, PostgreSQL, MySQL, Retrofit |
+| **Tools** | Git, GitHub Actions, Android Studio, Figma |
 
 ---
 
-### 🚀 Featured Repositories
-*Replace these with your actual top 2 projects. Don't be vague.*
+## 🚀 Featured Projects
 
-1. **[Project Name]** | [Link]
-   - **Challenge:** [Describe a hard technical problem you solved].
-   - **Solution:** [Describe the architecture or library you used to fix it].
-2. **[Project Name]** | [Link]
-   - **Challenge:** [e.g. Memory leaks or complex state management].
-   - **Solution:** [e.g. Implemented MVI with StateFlow for predictable UI].
+### 🔹 WhatsApp Clone (Android)
+**Tech Stack:** Kotlin · Jetpack Compose · Firebase · MVVM  
 
----
+A real-time chat application inspired by WhatsApp, built using modern Android development principles.
 
-### 🛣️ Roadmap 2026
-- [ ] **Kotlin Multiplatform (KMP):** Transitioning to shared logic for Android/iOS.
-- [ ] **Advanced CI/CD:** Automating builds using GitHub Actions & Fastlane.
-- [ ] **Performance Engineering:** Deep dive into memory profiling and stability.
+**Key Features:**
+- Real-time messaging with Firebase
+- Authentication & user presence
+- Clean MVVM architecture
+- Optimized UI recomposition with Compose
+
+🔗 **Repository:** _Add your GitHub repo link here_
 
 ---
 
-### 🤝 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/vipin-kumar-864165342/) | [Email](mailto:vipin@example.com)
+### 🔹 News App (Modern News Reader)
+**Tech Stack:** Kotlin · Retrofit · REST APIs · MVVM  
+
+A clean and fast news application delivering real-time updates with efficient data handling.
+
+**Key Features:**
+- Live news fetching using REST APIs  
+- Category-wise browsing  
+- Offline caching & error handling  
+- Material Design UI
+
+🔗 **Repository:** _Add your GitHub repo link here_
+
+---
+
+## 🛣️ Roadmap 2026
+
+- ✅ Master **Kotlin Multiplatform (KMP)**  
+- 🚀 Build **CI/CD pipelines** using GitHub Actions & Fastlane  
+- 📊 Deep dive into **Performance Optimization & Memory Profiling**  
+- 🧠 Advance in **System Design for scalable mobile apps**
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vipin-kumar-864165342  
+- 📧 **Email:** vipin@example.com  
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*  
