@@ -45,9 +45,12 @@ I am a **results-driven Android Developer** focused on building **high-performan
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vipin-27924/vipin-27924/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/vipin-27924/vipin-27924/main/dist/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/vipin-27924/vipin-27924/main/dist/github-contribution-grid-snake.svg">
+</picture>
+
 
 ---
 
