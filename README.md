@@ -33,11 +33,6 @@ I am a **results-driven Android Developer** focused on building **high-performan
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipin-27924&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-27924&layout=compact&theme=tokyonight&hide_border=true" width="43%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipin-27924&theme=tokyonight&hide_border=true" />
 </p>
 
