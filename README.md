@@ -4,3 +4,9 @@
   
   <img src="" alt="Vipin Kumar" />
 </div>
+
+### 🔎 About Me
+I am a developer focused on building high-performance mobile applications and scalable backend architecture. I prioritize clean code and efficient database management.
+
+- 🌱 **Learning:** Currently mastering **MongoDB** and **System Design**.
+- 💬 **Ask me about:** Andorid , Python, and Native Android Apps  .
