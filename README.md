@@ -5,7 +5,7 @@
   <img src="" alt="Vipin Kumar" />
 </div>
 
-
+<hr>
 
 🔎 About Me
 I am a developer focused on building high-performance mobile applications and scalable backend architecture. I prioritize clean code and efficient database management.
