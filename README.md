@@ -35,5 +35,8 @@ Tools & API,"Retrofit, OkHttp, Git, Android Studio, Figma"
 <div align="center">
 
 ### 🏆 GitHub Trophies
-[![] (https://github-profile-trophy.vercel.app/?username=vipin-27924&theme=onedark&column=3&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+[![My Trophies](https://github-profile-trophy.vercel.app/?username=Lavitratyagi&theme=onedark&column=3&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
